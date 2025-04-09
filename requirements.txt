@@ -1,2 +1,2 @@
-Joblib=1.4.2
+Joblib
 Scikit-learn
