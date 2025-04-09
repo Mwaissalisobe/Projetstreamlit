@@ -8,7 +8,7 @@ import numpy as np
 #from sklearn.metrics import accuracy_score
 
 model_path = "Financial.pkl"
-#model = joblib.load(model_path)
+model = joblib.load(model_path)
 
     # Entrées utilateur
 
